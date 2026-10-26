@@ -1,4 +1,6 @@
-# Skills for Product Designers Who Ship
+# All in One
+
+티켓 하나를 조사부터 PR까지 끝내는 디자이너의 스킬입니다.
 
 디자이너가 티켓 하나를 **조사 → 프로토타입 → 기획 문서 → 구현 → 보고서**까지 끝내는 흐름을 단계별 에이전트 스킬로 나눈 묶음입니다.
 Claude Code, Codex 같은 코딩 에이전트에서 씁니다.
